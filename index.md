@@ -1,9 +1,18 @@
 ## Willkommen bei Cana
 
 Hallo,
-wenn ihr für ein Event einen echten türkischen Schuhputzer haben wollt, meldet euch.
+wenn ihr für ein Event einen echten türkischen Schuhputzer haben wollt, meldet euch einfach bei mir.
+Ich komme gerne zu euren Geburtstagsfeiern, Abschlussfesten und Hochzeiten.
 
-![](schuhputzer.jpg)
+<img align="right" height="400px" src="Schuhputzer.jpg">
 
-Tel. 123456
+Tel. 123456 \
 Mail. asd@def.de
+
+### Mein Putzkasten
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+### Die Zutaten
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
