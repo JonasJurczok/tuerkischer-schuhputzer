@@ -6,7 +6,7 @@ Ich komme gerne zu euren Geburtstagsfeiern, Abschlussfesten und Hochzeiten.
 
 <img align="right" height="400px" src="Schuhputzer.jpg">
 
-Tel. 123456 \
+Tel. 123456<br>
 Mail. asd@def.de
 
 ### Mein Putzkasten
